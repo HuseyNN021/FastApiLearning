@@ -6,7 +6,9 @@
   <li>create empty folder and open in vs code</li>
   <li>Open terminal>cmd</li>
   <li>create venv:
-      <p>python -m venv myenv</p>
+      <ul>
+        <li>python -m venv myenv</li>
+      </ul>
   </li>
   <li>Activate myenv:
       <ul>
