@@ -2,6 +2,7 @@ Hello Everyone. This is my first project in backend, specially fastapi.
 What i learned in this section:
 
 1)create empty folder and open in vs code
+<br>
 2)Open terminal>cmd
 3)create venv:
   python -m venv myenv
